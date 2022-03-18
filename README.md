@@ -1,6 +1,6 @@
 ### Oi tudo bem? Eu me chamo Bruno Torres :)
 
-- 🔭 I’m currently working on Dell Lead Mentoring
+- 🔭 I’m currently unemployed
 - 🌱 I’m currently learning C# ASP.NET with MVC
 - 🤔 I’m looking for help with evrything about C#
 - 📫 How to reach me: brunotrs16@gmail.com
