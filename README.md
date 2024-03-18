@@ -1,8 +1,8 @@
 ### Oi tudo bem? Eu me chamo Bruno Torres :)
 
-- 🔭 I’m currently unemployed
-- 🌱 I’m currently learning C# ASP.NET with MVC
-- 🤔 I’m looking for help with evrything about C#
+- 🔭 I’m currently working as mobile developer
+- 🌱 I’m a C# .NET developer, also a Java Mobile developer and also learning Flutter + Dart
+- 🤔 I’m looking for help with evrything about Flutter
 - 📫 How to reach me: brunotrs16@gmail.com
 - 😄 Pronouns: he/him (ele/dele)
 
