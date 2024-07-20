@@ -1,9 +1,9 @@
 ### Oi tudo bem? Eu me chamo Bruno Torres :)
 
 I’m currently working as mobile developer
-I’m a Mobile Developer, experienced in Java, Kotlin and Flutter
-I’m looking forward to assist with evrything about Flutter, Java and Kotlin, and also learn anything new i dont know about.
-How to reach me: brunotrs16@gmail.com
+I’m a Mobile Developer, experienced in Java, Kotlin and Flutter \n
+I’m looking forward to assist with evrything about Flutter, Java and Kotlin, and also learn anything new i dont know about. \n
+How to reach me: brunotrs16@gmail.com \n
 Pronouns: he/him (ele/dele)
 
 <div align="center">
