@@ -1,10 +1,10 @@
 ### Oi tudo bem? Eu me chamo Bruno Torres :)
 
-- 🔭 I’m currently working as mobile developer
-- 🌱 I’m a C# .NET developer, also a Java Mobile developer and also learning Flutter + Dart
-- 🤔 I’m looking for help with evrything about Flutter
-- 📫 How to reach me: brunotrs16@gmail.com
-- 😄 Pronouns: he/him (ele/dele)
+I’m currently working as mobile developer
+I’m a Mobile Developer, experienced in Java, Kotlin and Flutter
+I’m looking forward to assist with evrything about Flutter, Java and Kotlin, and also learn anything new i dont know about.
+How to reach me: brunotrs16@gmail.com
+Pronouns: he/him (ele/dele)
 
 <div align="center">
   <a href="https://github.com/brwnitz">
